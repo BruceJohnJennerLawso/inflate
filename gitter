@@ -1,0 +1,5 @@
+#!/bin/bash
+
+geany inflate.sh gitter &
+
+exit 0
