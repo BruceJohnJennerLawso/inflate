@@ -35,6 +35,7 @@ sudo apt-get install gfortran
 sudo apt-get install make
 sudo apt-get install cmake
 sudo apt-get install arduino
+sudo apt-get install texlive
 
 ## development libraries: C ###################################################
 
@@ -87,6 +88,7 @@ sudo apt-get install feh
 sudo apt-get install joystick
 sudo apt-get install gparted
 sudo apt-get install gnome-system-monitor
+sudo apt-get install transmission-gtk
 
 ## wine #######################################################################
 
