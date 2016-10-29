@@ -1,0 +1,2 @@
+# inflate
+Standard setup script
