@@ -65,6 +65,8 @@ sudo apt-get install wifite
 sudo apt-get install wifi-radar
 sudo apt-get install dcfldd
 sudo apt-get install time
+sudo apt-get install stress
+sudo apt-get install calibre
 
 ## general use desktop apps, less critical stuff ##############################
 
