@@ -2,6 +2,7 @@
 
 ## core applications that I cant live without #################################
 
+sudo apt-get install sl
 sudo apt-get install vim
 ## death to emacs
 sudo apt-get install passwd
