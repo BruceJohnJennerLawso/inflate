@@ -20,6 +20,7 @@ sudo apt-get install terminator
 sudo apt-get install guake
 sudo apt-get install leafpad
 sudo apt-get install lxappearance
+sudo apt-get install conky
 
 ## Desktop applications for a workstation setup ###############################
 
