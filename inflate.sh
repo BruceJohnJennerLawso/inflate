@@ -216,7 +216,6 @@ git clone git@github.com:BruceJohnJennerLawso/newtons_method.git newton
 
 git clone git@github.com:BruceJohnJennerLawso/cmd--.git
 
-git clone git@github.com:BruceJohnJennerLawso/atmosphere.git
 
 
 
