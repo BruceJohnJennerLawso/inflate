@@ -1,5 +1,9 @@
 #!/bin/bash
 
+## retrieve a list of whats up to date package wise from the servers ##########
+
+sudo apt-get update
+
 ## core applications that I cant live without #################################
 
 sudo apt-get install sl
@@ -107,20 +111,20 @@ sudo apt-get install xscreensaver-gl-extra
 sudo apt-get install xclip
 
 cd $HOME
-ssh-keygen -t rsa -b 4096
+##ssh-keygen -t rsa -b 4096
 
-printf "sshkey to add to github:\n"
-cat $HOME/.ssh/id_rsa.pub
+##printf "sshkey to add to github:\n"
+##cat $HOME/.ssh/id_rsa.pub
 
-chromium-browser "https://github.com/settings/profile"
+##chromium-browser "https://github.com/settings/profile"
 
-printf "Press any key to continue"
-read -n 1 -s
+##printf "Press any key to continue"
+##read -n 1 -s
 
 ## create dev directory and clone #############################################
 
 cd $HOME
-mkdir dev
+##mkdir dev
 cd dev
 
 git clone git@github.com:BruceJohnJennerLawso/atmosphere.git
